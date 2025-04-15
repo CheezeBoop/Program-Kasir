@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laboo\\source\\repos\\Kasir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|c:\\users\\laboo\\source\\repos\\kasir\\kasir\\customermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|solutionrelative:kasir\\customermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|C:\\Users\\laboo\\source\\repos\\Kasir\\kasir\\customermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|solutionrelative:kasir\\customermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|c:\\users\\laboo\\source\\repos\\kasir\\kasir\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|solutionrelative:kasir\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|C:\\Users\\laboo\\source\\repos\\Kasir\\kasir\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|solutionrelative:kasir\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|c:\\users\\laboo\\source\\repos\\kasir\\kasir\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|solutionrelative:kasir\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|c:\\users\\laboo\\source\\repos\\kasir\\kasir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|solutionrelative:kasir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|C:\\Users\\laboo\\source\\repos\\Kasir\\kasir\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|solutionrelative:kasir\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|C:\\Users\\laboo\\source\\repos\\Kasir\\kasir\\newtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|solutionrelative:kasir\\newtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|C:\\Users\\laboo\\source\\repos\\Kasir\\kasir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|solutionrelative:kasir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|C:\\Users\\laboo\\source\\repos\\Kasir\\kasir\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C99B9E9F-7AC3-4722-8840-F618C30FFCF3}|Kasir\\Kasir.csproj|solutionrelative:kasir\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\CustomerManagement.cs",
+              "RelativeDocumentMoniker": "Kasir\\CustomerManagement.cs",
+              "ToolTip": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\CustomerManagement.cs [Design]",
+              "RelativeToolTip": "Kasir\\CustomerManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:49:50.464Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerManagement.cs",
+              "DocumentMoniker": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\CustomerManagement.cs",
+              "RelativeDocumentMoniker": "Kasir\\CustomerManagement.cs",
+              "ToolTip": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\CustomerManagement.cs",
+              "RelativeToolTip": "Kasir\\CustomerManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:12:46.322Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\Form1.cs",
+              "RelativeDocumentMoniker": "Kasir\\Form1.cs",
+              "ToolTip": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\Form1.cs",
+              "RelativeToolTip": "Kasir\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:14:37.924Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManagement.cs",
+              "DocumentMoniker": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\ProductManagement.cs",
+              "RelativeDocumentMoniker": "Kasir\\ProductManagement.cs",
+              "ToolTip": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\ProductManagement.cs",
+              "RelativeToolTip": "Kasir\\ProductManagement.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:10:17.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\ProductManagement.cs",
+              "RelativeDocumentMoniker": "Kasir\\ProductManagement.cs",
+              "ToolTip": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\ProductManagement.cs [Design]",
+              "RelativeToolTip": "Kasir\\ProductManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:49:24.158Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\MainForm.cs",
+              "RelativeDocumentMoniker": "Kasir\\MainForm.cs",
+              "ToolTip": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\MainForm.cs",
+              "RelativeToolTip": "Kasir\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:32:21.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewTransaction.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\NewTransaction.cs",
+              "RelativeDocumentMoniker": "Kasir\\NewTransaction.cs",
+              "ToolTip": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\NewTransaction.cs [Design]",
+              "RelativeToolTip": "Kasir\\NewTransaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:48:39.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\MainForm.cs",
+              "RelativeDocumentMoniker": "Kasir\\MainForm.cs",
+              "ToolTip": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\MainForm.cs [Design]",
+              "RelativeToolTip": "Kasir\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:34:54.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\Form1.cs",
+              "RelativeDocumentMoniker": "Kasir\\Form1.cs",
+              "ToolTip": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\Form1.cs [Design]",
+              "RelativeToolTip": "Kasir\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:00:30.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\TransactionHistory.cs",
+              "RelativeDocumentMoniker": "Kasir\\TransactionHistory.cs",
+              "ToolTip": "C:\\Users\\laboo\\source\\repos\\Kasir\\Kasir\\TransactionHistory.cs [Design]",
+              "RelativeToolTip": "Kasir\\TransactionHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:49:06.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
